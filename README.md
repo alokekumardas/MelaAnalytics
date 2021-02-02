@@ -18,7 +18,12 @@ git clone https://github.com/cms-analysis/HiggsAnalysis-ZZMatrixElement.git ZZMa
 
 ### MELA Analytics
 
+
+
 ```
-git clone https://github.com/usarica/MelaAnalytics.git
-(cd MelaAnalytics; git checkout -b from-v19 v1.9)
+git clone https://github.com/alokekumardas/MelaAnalytics.git
+#git clone https://github.com/usarica/MelaAnalytics.git
+#(cd MelaAnalytics; git checkout -b from-v19 v1.9)
+#(cd MelaAnalytics; git checkout -b main)
+
 ```
